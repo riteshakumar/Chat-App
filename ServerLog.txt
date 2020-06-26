@@ -1,0 +1,50 @@
+POST /{Rits5500}/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 8
+Date: Thu Jun 25 22:03:45 CDT 2020
+New Client connected: Rits5500
+POST /{Rits7700}/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 8
+Date: Thu Jun 25 22:04:00 CDT 2020
+New Client connected: Rits7700
+POST /Hey/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 3
+Date: Thu Jun 25 22:04:07 CDT 2020
+Rits7700: Hey
+
+POST /Hey/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 3
+Date: Thu Jun 25 22:04:10 CDT 2020
+Rits5500: Hey
+
+POST /bye/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 3
+Date: Thu Jun 25 22:04:18 CDT 2020
+Rits5500: bye
+
+POST /bye/ HTTP/1.1
+Host: localhost
+User-Agent: MultiChat/2.0
+Content-Type: text/html
+Content-Length: 3
+Date: Thu Jun 25 22:04:23 CDT 2020
+Rits7700: bye
+
+Rits7700 has LOGGED OUT
+
+Rits5500 has LOGGED OUT
+
